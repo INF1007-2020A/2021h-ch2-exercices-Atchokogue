@@ -4,12 +4,11 @@ def majuscule(mot):
     # TODO completer la fonction ici
     return mot
 
-#lmao
 
 if __name__ == '__main__':
     mots = [
         'riz',
-        'cours',
+        'cours',  # this is lit
         'voiture',
         'oiseau',
         'bonjour',
